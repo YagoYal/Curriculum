@@ -24,7 +24,7 @@ Portuguese
 Python| 
 React | 
 SQL | 
-Javascript|
+Javascript |
 
 <br>
 
