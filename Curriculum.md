@@ -8,7 +8,7 @@
 ## Contato
   **E-mail:** yagoalcontact@gmail.com <br>
   **Endereço:** São Paulo - SP <br>
-  **Linkedin:** <a href="#"> </a> <br>
+  **Linkedin:** <a href="https://www.linkedin.com/in/yago-a-20628892/"> Yago Almeida </a> <br>
   **Github:**   <a href="#">  </a>
 
 
