@@ -54,15 +54,15 @@ https://github.com/YagoYal/nlw-4
 <br>
 
 ## Formação acadêmica 
-**Universidade:** Nove de Julho
-**Curso:** Tecnologo em Sistemas para Web
-**Conclusão** 06/20
-**Cidade** São Paulo
+**Universidade:** Nove de Julho <br>
+**Curso:** Tecnologo em Sistemas para Web <br>
+**Conclusão** 06/20 <br>
+**Cidade** São Paulo <br>
 
-**Técnico:** DR.CLÓVIS BEVILACQUA
-**Curso:** Técnico de Informática Integrado ao Ensino Médio
-**Conclusão** 12/15
-**Cidade** São Paulo
+**Técnico:** DR.CLÓVIS BEVILACQUA <br>
+**Curso:** Técnico de Informática Integrado ao Ensino Médio <br>
+**Conclusão** 12/15 <br>
+**Cidade** São Paulo <br>
 
 
 ## Cursos
