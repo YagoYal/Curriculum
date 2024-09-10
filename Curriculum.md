@@ -37,7 +37,7 @@ Javascript |
 **Cargo:** ATENDIMENTO/ABASTECIMENTO <br>
 **Empresa:** TENDA ATACADO <br>
 **Localidade:** São Paulo <br>
-**Data de início:** 09/2022 | **Data de término:** Atual
+**Data de início:** 09/2022 | **Data de término:** 03/2024
 
 <br>
 
