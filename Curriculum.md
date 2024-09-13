@@ -23,7 +23,7 @@ Portuguese
 ## Skills
 HTML |
 CSS |
-Python| 
+Python | 
 React | 
 SQL | 
 Javascript |
