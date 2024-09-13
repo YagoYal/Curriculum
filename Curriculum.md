@@ -21,6 +21,8 @@ Portuguese
 <br>
 
 ## Skills
+HTML |
+CSS |
 Python| 
 React | 
 SQL | 
