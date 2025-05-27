@@ -1,7 +1,7 @@
 <h1 align="center">Yago Almeida</h1>
 <h4 align="center">Software Developer</h4>
 
-###### Sou desenvolvedor de software em busca de mais conhecimento que me permita expandir meus conhecimentos em desenvolvimento <br> de software para poder resolver os problemas das pessoas.
+###### Sou desenvolvedor de software em busca de mais conhecimento para resolver problemas por meio da tecnologia com foco e inovação. Busco constantemente aprender novas ferramentas e colaborar em projetos.
 
 <br>
 
