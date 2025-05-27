@@ -56,7 +56,7 @@ https://github.com/YagoYal/nlw-4
 ## Formação acadêmica 
 **Universidade:** Centro Universitário das Faculdades Metropolitanas Unidas <br>
 **Curso:** Sistemas de informação <br>
-**Conclusão:** Atual <br>
+**Conclusão:** 08/28<br>
 **Cidade:** São Paulo <br>
 
 **Universidade:** Nove de Julho <br>
