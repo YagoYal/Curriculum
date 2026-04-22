@@ -21,6 +21,8 @@ Portuguese
 <br>
 
 ## Skills
+Java
+Python
 HTML |
 CSS |
 Python | 
