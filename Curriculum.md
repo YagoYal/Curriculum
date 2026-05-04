@@ -49,10 +49,11 @@ Javascript |
 ## Projetos
 https://github.com/YagoYal/backend-tipado
 
-https://github.com/YagoYal/Formulario-de-Matricula
+https://github.com/YagoYal/brainwave
 
-https://github.com/YagoYal/nlw-4
+https://github.com/YagoYal/Advanced-ai-model-lunar-ice-detection
 
+https://github.com/YagoYal/my-portfolio
 <br>
 
 ## Formação acadêmica 
